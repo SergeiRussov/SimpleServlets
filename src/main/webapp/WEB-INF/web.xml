@@ -1,0 +1,11 @@
+<web-app>
+    <servlet>
+        <servlet-name>MyNumberController</servlet-name>
+        <servlet-class>controllers.MyNumberController</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>MyNumberController</servlet-name>
+        <url-pattern>/Calculations</url-pattern>
+    </servlet-mapping>
+</web-app>

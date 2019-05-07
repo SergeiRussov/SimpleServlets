@@ -1,7 +1,5 @@
 package util;
 
-import entity.MyNumber;
-
 public class Calculations {
 
     public double toAdd(double x, double y) {
